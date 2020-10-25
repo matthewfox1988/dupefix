@@ -1,0 +1,8 @@
+name: dupefix
+main: me.matthewfox.dupefix.Main
+version: 1.0
+author: MattFox
+
+commands:
+   dupefix:
+      description: Null.
